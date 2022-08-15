@@ -1,3 +1,3 @@
 add_executable(run_mosse_stream_video MosseStreamVideo.cpp)
-target_link_libraries(run_mosse_stream_video lib_mosse_tracking)
+target_link_libraries(run_mosse_stream_video lib_mosse_tracking opencv_core opencv_highgui opencv_imgproc opencv_imgcodecs)
 
