@@ -1,8 +1,0 @@
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/CMakeFiles/rebuild_cache.dir
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/CMakeFiles/edit_cache.dir
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/mosse/mosse/CMakeFiles/rebuild_cache.dir
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/mosse/mosse/CMakeFiles/lib_mosse_tracking.dir
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/mosse/mosse/CMakeFiles/edit_cache.dir
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/example/CMakeFiles/rebuild_cache.dir
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/example/CMakeFiles/run_mosse_stream_video.dir
-/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/build/example/CMakeFiles/edit_cache.dir
