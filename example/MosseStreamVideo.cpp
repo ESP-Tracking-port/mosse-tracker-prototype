@@ -99,6 +99,15 @@ void run(std::string pWorkDir, std::string pFileExt, int pZeros, int pStartFrame
 
 int main()
 {
+	constexpr const char *kWorkingDir = "/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/video/dog";
+	constexpr const char *kFileExtension = ".jpg";
+	constexpr int kZeros = 8;
+	constexpr int kStartFrame = 0;
+	constexpr int kX = 190;
+	constexpr int kY = 110;
+	constexpr int kW = 30;
+	constexpr int kH = 30;
+	run(kWorkingDir, kFileExtension, kZeros, kStartFrame, kX, kY, kW, kH);
 	return 0;
 }
 
