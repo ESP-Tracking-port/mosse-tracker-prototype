@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_mosse_stream_video.dir/MosseStreamVideo.cpp.o -o run_mosse_stream_video  ../mosse/mosse/liblib_mosse_tracking.a 

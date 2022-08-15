@@ -1,5 +1,7 @@
 #include "stdafx.h"
 #include "MosseTracker.h"
+#include <cmath>
+#include <cstring>
 
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

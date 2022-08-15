@@ -13,12 +13,7 @@
 // Export defines
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-#ifdef MOSSETRACKER_EXPORTS
-#define MOSSE_API extern "C" __declspec(dllexport)
-#else
-#define MOSSE_API extern "C" __declspec(dllimport)
-#endif
-
+#define MOSSE_API extern "C"
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 // Exported functions declaration

@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "MosseTracker.h"
+#include <cstring>
 
 
 void MosseTracker::GenerateAndFourierG(int pW, int pH)

@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "Export/Mosse_Export.h"
+#include "Mosse_Export.h"
 
 
 #include "MosseTracker.h"

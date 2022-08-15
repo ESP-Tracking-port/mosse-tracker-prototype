@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/Fft.h
+
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/MosseTracker.h
+Fft.h
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/Fft.h
+fftw3.h
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/fftw3.h
+
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/MosseTracker_Misc.cpp
+stdafx.h
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/stdafx.h
+MosseTracker.h
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/MosseTracker.h
+cstring
+-
+
+/home/dmurashov/Documents/CODE-MosseTracker/MosseRef/mosse/mosse/stdafx.h
+vector
+-
+memory
+-
+

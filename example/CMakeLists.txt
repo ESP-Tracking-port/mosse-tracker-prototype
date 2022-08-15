@@ -1,0 +1,3 @@
+add_executable(run_mosse_stream_video MosseStreamVideo.cpp)
+target_link_libraries(run_mosse_stream_video lib_mosse_tracking)
+

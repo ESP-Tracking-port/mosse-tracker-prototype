@@ -4,7 +4,7 @@
 
 // Defines the FFT algorithm. Uncomment the line with the required algorithm
 //#define MOSSE_USE_FFT_NATIVE
-#define MOSSE_USE_FFT_FFTW
+#define MOSSE_USE_FFT_NATIVE
 
 
 #ifdef MOSSE_USE_FFT_NATIVE

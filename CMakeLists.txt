@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+project(mosse_tracking)
+include_directories(mosse)
+add_subdirectory(mosse/mosse)
+add_subdirectory(example)
