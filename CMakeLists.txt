@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
+set(CMAKE_CXX_STANDARD 11)
 project(mosse_tracking)
 include_directories(mosse)
 add_subdirectory(mosse/mosse)
