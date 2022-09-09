@@ -5,14 +5,15 @@
 #include "MosseTracker.h"
 
 
-std::vector<MosseTracker *> g_mosseTrackers;
+static std::vector<MosseTracker *> g_mosseTrackers;
 
 
 int Mosse_Init(const unsigned char *pScan0, int pStride, int pX, int pY, int pW, int pH, float pLearnRate)
 {
 	// Look for a free cell
-	int newId;
-	for (newId = 0; newId < (int)g_mosseTrackers.size(); ++newId)
+	g_mosseTrackers.clear();
+	int newId = 0;
+	for (; newId < (int)g_mosseTrackers.size(); ++newId)
 	{
 		if (g_mosseTrackers[newId] == nullptr)
 			break;
